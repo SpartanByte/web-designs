@@ -9,8 +9,70 @@ This repository is for any design work from mid 2025 and going forward, includin
 - PDF Design Documents
 - Graphics and Logo Images
 - Font Files
+- UX/UI Design Documents
+    - Personas
+    - User Research
+    - User Story (site workflow)
+    - Wireframes
+
 
 <hr>
+
+### Repo Folder Structure
+```
+├── web-designs/                 # Publicly accessible files (e.g., index.html)
+|   ├── brewmation/              # Project directory   
+│       │   └── .keep    
+│       ├── figma-files/         # Related Figma slides, mockups, etc
+│       │   └── .keep  
+│       ├── final-designs/       # All final designs
+│       │   └── .keep   
+│       ├── wireframes/          # All wireframes to focus on users and content structure
+│       │   └── .keep   
+│       ├── work-in-progress/    # Related Figma slides, mockups, etc
+|       |   └── fonts/ 
+|       |       └── telegrafico.zip 
+|       |       └── .keep  
+│       │   ├── brewmation-hero-logo.png
+│       │   ├── brewmation-hero-logo.png
+│       │   ├── brewmation-landing-page.pdf
+│       │   ├── brewmation-landing-page.png
+│       │   ├── logo-square.png
+|   ├── minnipark-butcher-co/      # Project directory   
+│       │   └── .keep    
+│       ├── figma-files/           # Related Figma slides, mockups, etc
+│       │   └── .keep  
+│       ├── final-designs/         # All final designs
+│       │   └── .keep   
+│       ├── wireframes/            # All wireframes to focus on users and content structure
+│       │   └── .keep   
+│       ├── work-in-progress/      # Related Figma slides, mockups, etc
+|       |   └── fonts/ 
+|       |       └── .keep
+|       |   └── .keep
+|   ├── user-research-templates/      # Templates for backup
+│       │   └── user-anthony-james.md
+│       │   └── user-ben-lang.md 
+│       │   └── user-chelsea-zhang.md
+│       │   └── user-emily-cohen.md
+│       │   └── user-kyle-miller.md
+│       │   └── user-research.md
+│       │   └── user-session.md
+│       │   └── personas.md
+|       |   └── personas/ 
+│       │       └── experiments/
+│       │       └── personas/
+│       │       └── user-register/
+│       │       └── experiments.md
+│       │       └── personas.csv
+│       │       └── personas.md
+│       │       └── user-register.md
+│       │       └── # various user persona images
+|   ├── web-design-sop-templates/      # Templates for backup
+│       │   └── web-design-sop-readme.md
+|   ├── .gitignore
+|   ├── README.md
+```
 
 ### Projects
 
