@@ -32,7 +32,10 @@ This repository is for any design work from mid 2025 and going forward, includin
 │       ├── work-in-progress/    # Related Figma slides, mockups, etc
 |       |   └── fonts/ 
 |       |       └── telegrafico.zip 
-|       |       └── .keep  
+|       |       └── .keep
+│       ├── user-research-documents/ 
+|       |       └── .keep
+|       |   └── fonts/ 
 │       │   ├── brewmation-hero-logo.png
 │       │   ├── brewmation-hero-logo.png
 │       │   ├── brewmation-landing-page.pdf
@@ -47,6 +50,8 @@ This repository is for any design work from mid 2025 and going forward, includin
 │       ├── wireframes/            # All wireframes to focus on users and content structure
 │       │   └── .keep   
 │       ├── work-in-progress/      # Related Figma slides, mockups, etc
+│       ├── user-research-documents/ 
+|       |       └── .keep
 |       |   └── fonts/ 
 |       |       └── .keep
 |       |   └── .keep
